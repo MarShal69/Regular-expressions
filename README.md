@@ -1,3 +1,7 @@
+#SI Test demo
+
+[![Build status](https://ci.appveyor.com/api/projects/status/tlkrk5jcrpbn8mvd?svg=true)](https://ci.appveyor.com/project/MarShal69/regular-expressions)
+
 # Домашнее задание к лекции «Регулярные выражения»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
